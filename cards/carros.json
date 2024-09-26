@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "CARRO1",
+        "imagem": "img/carro1.jpg"
+    },
+    {
+        "nome": "CARRO2",
+        "imagem": "img/carro2.jpg"
+    },
+    {
+        "nome": "CARRO3",
+        "imagem": "img/carro3.jpg"
+    },
+    {
+        "nome": "CARRO4",
+        "imagem": "img/carro4.jpg"
+    },
+    {
+        "nome": "CARRO5",
+        "imagem": "img/carro5.jpg"
+    }
+]
